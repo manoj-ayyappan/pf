@@ -614,8 +614,9 @@ footer {
 }
 
 .experience-title h3 {
-    font-size: 1.2rem;
     color: var(--accent-color);
+    font-size: 1.2rem;
+    font-weight: 500;
     margin-bottom: 0.5rem;
 }
 
@@ -624,6 +625,11 @@ footer {
     gap: 1.5rem;
     color: var(--text-secondary);
     font-size: 0.9rem;
+}
+
+.experience-meta .duration {
+    color: var(--accent-color);
+    font-weight: 500;
 }
 
 .responsibility-list {
@@ -740,6 +746,7 @@ footer {
 
 .project-date {
     color: var(--accent-color);
+    font-weight: 500;
     font-size: 0.9rem;
 }
 
@@ -878,8 +885,8 @@ footer {
 
 .blog-date {
     color: var(--accent-color);
-    font-size: 0.9rem;
     font-weight: 500;
+    font-size: 0.9rem;
 }
 
 .blog-title {
@@ -896,17 +903,17 @@ footer {
 }
 
 .read-more {
+    color: var(--accent-color);
+    font-weight: 500;
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
-    color: var(--accent-color);
     text-decoration: none;
-    font-weight: 500;
     transition: gap 0.3s ease;
 }
 
 .read-more:hover {
-    gap: 0.8rem;
+    color: var(--accent-hover-color);
 }
 
 .read-more i {
@@ -1029,9 +1036,9 @@ footer {
 }
 
 .project-category h2 {
-    font-size: 2rem;
-    margin-bottom: 1rem;
     color: var(--accent-color);
+    font-size: 2rem;
+    margin-bottom: 2rem;
     border-bottom: 2px solid var(--accent-color);
     padding-bottom: 0.5rem;
 } 
