@@ -1,4 +1,5 @@
 # Portfolio Website - Manoj Ayyappan
+Website link - https://manoj-ayyappan.github.io/pf/
 
 ## Overview
 A modern, responsive portfolio website showcasing my professional journey, projects, and technical writing. The website features a clean, minimalist design with smooth animations and intuitive navigation, making it easy for visitors to explore my work and achievements.
@@ -28,6 +29,17 @@ A modern, responsive portfolio website showcasing my professional journey, proje
   - Font Awesome Icons
   - Google Fonts
 
+## Rules
+- Ensure the generated code is well-organized and modular, with clear separation of concerns.
+- Use descriptive variable, function, and class names that reflect their purpose.
+- Include concise, meaningful inline comments and documentation to explain non-obvious logic.
+- Adhere to established coding standards and style guides relevant to the language or framework.
+- Write code that is maintainable, with proper error handling and clear boundaries for functionality.
+- Avoid overly complex or deeply nested structures by favoring simplicity and clarity.
+- Optimize for performance and security by following best practices and using efficient algorithms.
+- Incorporate unit tests or example test cases to demonstrate and verify functionality.
+- Write code that is self-contained with minimal dependencies, facilitating easy integration into larger projects.
+- Split code up into separate files with meaningful names, avoid having large files with more than 300 lines of code.
 
 ## Contact
 - Email: manojayyappan18@gmail.com
